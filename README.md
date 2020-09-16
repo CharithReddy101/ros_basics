@@ -14,4 +14,4 @@ We have two files 'talker.py' and 'listener.py'. The talker.py consists of a nod
 We can run the scripts using the command "rosrun package_name file_name".
 
 ### Here's how it works
-![](img/hello_world.png)
+![](img/hello_world.PNG)
