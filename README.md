@@ -9,6 +9,8 @@ We need a publisher node, a subscriber node and a topic to know how ROS communic
 
 
 I made a package named **hello_world**. It consists of a folder called scripts.
+
+
 *Note:We can add all out python scripts here in this folder. It is not mandatory but it is a good practice to arrage them in a separate folder.*
 
 
